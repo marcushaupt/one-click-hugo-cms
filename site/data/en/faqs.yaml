@@ -1,0 +1,22 @@
+- title: Spenden
+  faqs:
+    - question: Was passiert mit meiner Spende?
+      answer: Deine Spende spielt eine entscheidende Rolle! Mit deinem Beitrag werden Alström-Patienten zusammengebracht, um eine unterstützende Gemeinschaft zu bilden. Wir setzen deine Spende ein, um Aufklärung über die Krankheit zu fördern, ein Patientenregister aufzubauen und wichtige Mitgliedertreffen zu finanzieren. Jeder Cent trägt dazu bei, das Bewusstsein zu schärfen und die Lebensqualität der Betroffenen nachhaltig zu verbessern. Vielen Dank für deine Unterstützung!
+    - question: Wie bekomme ich eine Spendenquittung?
+      answer:  Um eine Spendenquittung zu erhalten, sende bitte eine Nachricht an [vorstand@alstroemsyndrom.de](mailto:vorstand@alstroemsyndrom.de). Bitte gib unbedint deinen Namen, die Summe der Spende und das Datum der Überweisun an. Danke!
+- title: Verein
+  faqs:
+    - question: Wie werde ich Mitglied?
+      answer: Whether you’re building a personal blog or a large-scale enterprise website, Hugobricks scales effortlessly. Its ability to handle thousands of pages with consistent speed and efficiency makes it an ideal choice for projects of any size. Moreover, Hugobricks generates static websites that can be hosted on any web server or content delivery network (CDN) without any specific server requirements, ensuring portability and easy deployment.
+    - question: Was kostet eine Mitgliedschaft?
+      answer: Hugobricks offers a straightforward and hassle-free setup process. It comes with pre-built binaries for various operating systems, making it accessible to developers across different platforms. Additionally, Hugobricks has a user-friendly command-line interface (CLI) that allows you to create and manage your site effortlessly. Its simplicity makes it a great choice for both experienced developers and beginners alike.
+    - question: Was bietet der Verein?
+      answer: Hugobricks provides a flexible architecture that empowers developers to create websites tailored to their specific needs. With its powerful templating system, you can easily customize the look and feel of your site. Hugobricks supports a wide range of themes, allowing you to choose from a vast collection or create your own. Furthermore, its extensive plugin ecosystem enables you to extend its functionality and add features seamlessly.
+- title: Ehrenamt
+  faqs:
+    - question: Wie kann ich mich ehrenamtlich engagieren?
+      answer: Content creation and management are made convenient with Hugobricks. It supports Markdown, a lightweight markup language that simplifies the process of writing content-rich web pages. Markdown’s simplicity and readability make it a favorite among writers and developers alike. Hugobricks’s content organization system allows you to easily structure your content, making it effortless to manage and update your website’s information.
+    - question: Welche Fähigkeiten muss ich mitbringen?
+      answer:  Hugobricks is designed with search engine optimization (SEO) in mind. It generates clean HTML markup, adhering to best practices for search engine discoverability. This helps your site rank higher in search engine results, increasing its visibility to potential visitors. 
+    - question: Wie hoch ist der zeitl. Aufwand?
+      answer: Additionally, Hugobricks’s static nature eliminates the need for databases or complex server configurations, making it inherently more secure than dynamic content management systems.

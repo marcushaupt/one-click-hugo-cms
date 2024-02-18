@@ -1,0 +1,19 @@
+action: /form.php
+placeholders: false
+fields: 
+- name: name
+  input_type: text
+  placeholder: Name
+  required: true
+- name: email
+  input_type: email
+  placeholder: Email
+  required: true
+- name: terms
+  input_type: checkbox
+  placeholder: Ich akzeptiere die Bedingungen und Konditionen
+  required: true
+- name: submit
+  input_type: submit
+  placeholder: Newsletter anmelden
+  required: true

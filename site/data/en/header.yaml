@@ -1,0 +1,52 @@
+logo_image: /uploads/branding/alstroem-syndrom-ev-logo.png
+logo_subtitle: Syndrom e. V.
+mobile_view_width: 1000
+menuitems:
+  - title: About
+    link: /about/
+    items: 
+      - title:
+        link:
+  - title: Verein
+    link: /verein/
+  - title: Alström Syndrom
+    link: /alstroem-syndrom/
+  - title: Initiativen
+    link: /initiativen/
+  - title: Kontakt
+    link: /kontakt/ 
+  - title: Pages
+    link: /contact/
+    items: 
+      - title: Elements
+        link: /elements/
+      - title: Header image 1
+        link: /bgimage3/
+      - title: Header image 2
+        link: /bgimage2/
+      - title: Header image 3
+        link: /bgimage/
+      - title: Basic page 1
+        link: /basic/
+      - title: Basic page 2
+        link: /basic2/
+      - title: Our team
+        link: /team/
+      - title: Contact us
+        link: /contact/
+      - title: F.A.Q.
+        link: /faq/
+      - title: 404 Page
+        link: /404.html
+      - title: Unser Team
+        link: /unser-team
+      - title: Jetzt spenden
+        link: /jetzt-spenden/
+  - title: Docs
+    link: /docs/
+  - title: Blog
+    link: /blog/
+cta:
+  active: true
+  title: Jetzt Spenden
+  link: /jetzt-spenden/
